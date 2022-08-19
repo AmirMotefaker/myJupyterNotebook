@@ -12,4 +12,6 @@ my Jupyter Notebook codes
           - Indexing on ndarrays
           
           - I/O with NumPy: Importing data with genfromtxt
+          
+          - Data types
 
