@@ -15,3 +15,7 @@ my Jupyter Notebook codes
           
           - Data types
 
+          - Broadcasting
+          
+          - Byte-swapping
+
