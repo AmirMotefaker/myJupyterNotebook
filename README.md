@@ -18,4 +18,5 @@ my Jupyter Notebook codes
           - Broadcasting
           
           - Byte-swapping
-
+          
+          - Structured arrays
