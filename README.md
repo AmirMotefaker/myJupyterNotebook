@@ -22,4 +22,7 @@ my Jupyter Notebook codes
           - Structured arrays
           
           - Writing custom array containers
+          
+          - Subclassing ndarray
+
 
