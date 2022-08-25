@@ -24,5 +24,7 @@ my Jupyter Notebook codes
           - Writing custom array containers
           
           - Subclassing ndarray
+          
+          - Universal functions (ufunc) basics
 
 
