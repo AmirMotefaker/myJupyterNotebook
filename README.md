@@ -28,3 +28,5 @@ my Jupyter Notebook codes
           - Universal functions (ufunc) basics
           
           - Copies and views
+          
+          - Interoperability 
