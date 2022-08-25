@@ -26,5 +26,5 @@ my Jupyter Notebook codes
           - Subclassing ndarray
           
           - Universal functions (ufunc) basics
-
-
+          
+          - Copies and views
