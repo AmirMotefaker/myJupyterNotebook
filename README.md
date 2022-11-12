@@ -1,4 +1,4 @@
-# myJupyterNotebook
+# JupyterNotebook
 my Jupyter Notebook codes
 
 >> NumPy
