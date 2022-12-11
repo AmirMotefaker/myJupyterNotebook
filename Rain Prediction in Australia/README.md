@@ -26,3 +26,8 @@ The results are reported as the accuracy of each classifier, using the following
 5. Mean Absolute Error
 6. Mean Squared Error
 7. R2-Score
+
+
+
+
+>>>I am implementing a forecasting model on the Rain Dataset to predict whether it will rain in Australia tomorrow. The dataset contains about 10 years of daily weather observations from various locations in Australia.
