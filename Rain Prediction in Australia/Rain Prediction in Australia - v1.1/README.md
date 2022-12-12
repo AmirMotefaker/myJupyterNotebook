@@ -18,3 +18,10 @@
     1) Logistic Regression
     2) Random Forest
     3) Cat Boost Model
+
+
+### Conclusion:
+
+##### The accuracy score of Cat Boost Model is high when compared with accuracy scores of Logistic Regression and Random Forest. But cat Boost model consumes lot of time to train the model.
+
+##### In terms of computation time and Accuracy score, logistic Regression model is doing job.
