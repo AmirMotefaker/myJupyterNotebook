@@ -81,22 +81,38 @@
           
           14.3 Compare model accuracy with null accuracy
           
-Confusion matrix
-Classification metrices
-16.1 Classification report
-16.2 Classification accuracy
-16.3 Classification error
-16.4 Precision
-16.5 Recall
-16.6 True Positive Rate
-16.7 False Positive Rate
-16.8 Specificity
-16.9 f1-score
-16.10 Support
-Adjusting the threshold level
-ROC-AUC
-Recursive Feature Elimination with Cross Validation (RFECV)
-k-Fold Cross-Validation
-Hyperparameter Optimization using GridSearch CV
-Results and Conclusion
-References
+     15- Confusion matrix
+     
+     16- Classification metrices
+     
+          16.1 Classification report
+            
+          16.2 Classification accuracy
+            
+          16.3 Classification error
+            
+          16.4 Precision
+            
+          16.5 Recall
+            
+          16.6 True Positive Rate
+            
+          16.7 False Positive Rate
+            
+          16.8 Specificity
+            
+          16.9 f1-score
+            
+          16.10 Support
+            
+      17- Adjusting the threshold level
+      
+      18- ROC-AUC
+      
+      19- Recursive Feature Elimination with Cross Validation (RFECV)
+      
+      20- k-Fold Cross-Validation
+      
+      21- Hyperparameter Optimization using GridSearch CV
+      
+      22- Results and Conclusion
