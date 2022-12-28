@@ -1,12 +1,11 @@
 # Rain Prediction in Australia
 
-Project Scenario
+### Project Scenario
 
-This is Honors Project. Its completion is optional but highly recommended.
+- Now that you have been equipped with the skills to use different Machine Learning algorithms, you will have the opportunity to practice and apply them to a dataset. 
+- In this project, you will complete a notebook where you will build a classifier to predict whether there will be rain the following day.
 
-Now that you have been equipped with the skills to use different Machine Learning algorithms over the course of five weeks, you will have the opportunity to practice and apply it on a dataset. In this project, you will complete a notebook where you will build a classifier to predict whether there will be rain the following day.
-
-For your project, you will use a rainfall dataset from Australian Government's Bureau of Meteorology , clean the data, and apply different classification algorithm on the data. 
+- You will use a rainfall dataset from the Australian Government's Bureau of Meteorology, clean the data, and apply different classification algorithms to the data.
 
 - You can download your data from http://www.bom.gov.au/climate/dwo/
 
