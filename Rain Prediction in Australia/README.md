@@ -8,7 +8,7 @@ Now that you have been equipped with the skills to use different Machine Learnin
 
 For your project, you will use a rainfall dataset from Australian Government's Bureau of Meteorology , clean the data, and apply different classification algorithm on the data. 
 
-- Alternatively, you can download your data from http://www.bom.gov.au/climate/dwo/
+- You can download your data from http://www.bom.gov.au/climate/dwo/
 
 
 You are expected to use the following algorithms to build your models:
