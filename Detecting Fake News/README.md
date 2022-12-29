@@ -13,3 +13,8 @@
 - IDF (Inverse Document Frequency): Words that occur many times a document, but also occur many times in many others, may be irrelevant. IDF is a measure of how significant a term is in the entire corpus.
 
 - The TfidfVectorizer converts a collection of raw documents into a matrix of TF-IDF features.
+
+## What is a PassiveAggressiveClassifier?
+
+- Passive Aggressive algorithms are online learning algorithms. 
+- Such an algorithm remains passive for a correct classification outcome and turns aggressive in the event of a miscalculation, updating, and adjusting. 
