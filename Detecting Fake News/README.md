@@ -1,4 +1,4 @@
-# Detecting Fake News using ML
+# Detecting Fake News using Machine learning
 
 Dataset: https://www.kaggle.com/datasets/amirmotefaker/detecting-fake-news-dataset?select=news.csv
 
