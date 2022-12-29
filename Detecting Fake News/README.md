@@ -1,5 +1,8 @@
 # Detecting Fake News using ML
 
+Dataset: https://www.kaggle.com/datasets/amirmotefaker/detecting-fake-news-dataset?select=news.csv
+
+
 ## What is Fake News?
 
 - A type of yellow journalism, fake news encapsulates pieces of news that may be hoaxes and is generally spread through social media and other online media. 
